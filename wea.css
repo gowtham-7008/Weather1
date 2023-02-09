@@ -1,0 +1,19 @@
+html{
+    background-size: 1300px;
+    background-repeat: no-repeat; 
+    background-image: url("https://cdn.pixabay.com/photo/2016/08/24/17/09/sun-1617470__340.jpg")
+}
+p{
+    font-weight: bold;
+    color: black;
+}
+body{
+    text-align: center;
+}
+button{
+    border-style:dashed;
+}
+input{
+    border-style: dashed;
+    margin-top: 200px;
+}
